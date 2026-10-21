@@ -14,11 +14,11 @@ The **Ola Ride Booking & Revenue Dashboard** is an interactive data analytics pr
 ## 📊 Dashboard Highlights
 
 ### Key Performance Indicators (KPIs)
-- **Completed Rides:** 3K
-- **Lost Bookings:** 2K
-- **Revenue:** 2M
-- **Total Distance:** 74.3K
-- **Average Distance:** 24.40
+- **Completed Rides:** 93K
+- **Lost Bookings:** 57K
+- **Revenue:** 52M
+- **Total Distance:** 2.5M
+- **Average Distance:** 24.64
 
 ### Visualizations
 - **Monthly Completed Rides:** Tracks ride completion trends throughout the year.
